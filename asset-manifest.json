@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Netflix-2.1/static/css/main.c519712f.css",
-    "main.js": "/Netflix-2.1/static/js/main.d8cb09ee.js",
+    "main.css": "/Netflix-2.1/static/css/main.19b63af1.css",
+    "main.js": "/Netflix-2.1/static/js/main.00372028.js",
     "static/js/787.0904c1f0.chunk.js": "/Netflix-2.1/static/js/787.0904c1f0.chunk.js",
-    "static/media/fifty.jpg": "/Netflix-2.1/static/media/fifty.5da6e341a8b82ba80df0.jpg",
+    "static/media/sa.jpg": "/Netflix-2.1/static/media/sa.5d09965409b55f82def1.jpg",
     "index.html": "/Netflix-2.1/index.html",
-    "main.c519712f.css.map": "/Netflix-2.1/static/css/main.c519712f.css.map",
-    "main.d8cb09ee.js.map": "/Netflix-2.1/static/js/main.d8cb09ee.js.map",
+    "main.19b63af1.css.map": "/Netflix-2.1/static/css/main.19b63af1.css.map",
+    "main.00372028.js.map": "/Netflix-2.1/static/js/main.00372028.js.map",
     "787.0904c1f0.chunk.js.map": "/Netflix-2.1/static/js/787.0904c1f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c519712f.css",
-    "static/js/main.d8cb09ee.js"
+    "static/css/main.19b63af1.css",
+    "static/js/main.00372028.js"
   ]
 }
