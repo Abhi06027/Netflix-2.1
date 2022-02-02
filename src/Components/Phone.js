@@ -7,7 +7,7 @@ export default function Phone() {
              
                  </h1>
                  
-             <div className=' flex  px-16 space-x-20 object-contain  py-2 sm:py-2 md:py-2 lg:py-3  overflow-scroll scrollbar-hide cursor-pointer     ' > 
+             <div className=' flex  pl-10 sm:ml-5 md:ml-8 lg:ml-16 space-x-16 object-contain  py-2 sm:py-2 md:py-2 lg:py-3  overflow-scroll scrollbar-hide cursor-pointer     ' > 
                  
                  <img className=" text-white   w-[150px] h-[250px] object-contain   rounded-md transform hover:scale-105 transition-transform duration-500 ease-in-out  " src="./images/13.jpg" alt="" />
                

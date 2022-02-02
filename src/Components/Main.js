@@ -5,7 +5,7 @@ export default function Main() {
 
 <main className=' '  >
 <div>
-        <img className="  lg:mt-32   w-[200px] sm:w-[200px] md:w-[300px] lg:w-[700px] py-2 sm:py-2 md:py-3  lg:py-5   " src="./images/ameri.png" alt="" />
+        <img className="  lg:mt-32   w-[100px] sm:w-[200px] md:w-[300px] lg:w-[500px] ml-5  ml:px-5 md:ml-8 lg:ml-20 py-2 sm:py-2 md:py-3  lg:py-5   " src="./images/ameri.png" alt="" />
         </div>
             {/* <div className=' flex  items-center text-center  ' > 
 <img className="  w-20 pl-12   " src="./images/top10.png" alt="" />

@@ -10,12 +10,12 @@ import Children from './Components/Children';
 import Asked from './Components/Asked';
 import Footer from './Components/Footer';
 import {Helmet} from "react-helmet";
-
+import pie from './pie.mp4'
 function App() {
   return (
    
 
-   <div className=' bg-goli' >
+   <div className=' bg-goli  ' >
     <Helmet>
                 <meta charSet="utf-8" />
                 <title>Home - Netflix  </title>
@@ -24,12 +24,13 @@ function App() {
 Netflix - Watch TV Shows Online, Watch Movies Online" />
             </Helmet>
    
-    <div className=' bg-goli ' >
-    <div className=' w-full  min-h-[200px] sm:min-h-[200px]  md:min-h-[200px] lg:min-h-[200px] bg-cover bg-top sm:bg-cover sm:bg-top md:bg-cover md:bg-top lg:bg-cover lg:bg-top '  style  ={{ backgroundImage: `url(${sa})`  }}> 
-   
+    <div className=' bg-goli  ' >
+    <div>
+    <div className=' w-full  min-h-[200px] sm:min-h-[200px]   md:min-h-[200px] lg:min-h-[200px] bg-cover bg-top sm:bg-cover sm:bg-top md:bg-cover md:bg-top lg:bg-cover lg:bg-top  ' style={{ backgroundImage: `url(${sa})` }}> 
+    {/* <video className=' absolute  ' src={pie} width="1920" height="1080" controls loop  poster="./images/sa.jpg"> </video> */}
     <Header/> 
      <Main/>
-    
+     </div>
    <head>
           <title>   Netflix clone</title>
           
