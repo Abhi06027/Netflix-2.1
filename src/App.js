@@ -1,6 +1,6 @@
 
 import './App.css';
-import fifty from './fifty.jpg';
+import sa from './sa.jpg';
 import Header from './Components/Header';
 import Main from './Components/Main';
 import TvMain from './Components/TvMain';
@@ -25,7 +25,7 @@ Netflix - Watch TV Shows Online, Watch Movies Online" />
             </Helmet>
    
     <div className=' bg-goli ' >
-    <div className=' w-full  min-h-[200px] sm:min-h-[200px]  md:min-h-[200px] lg:min-h-[200px] bg-cover bg-top sm:bg-cover sm:bg-top md:bg-cover md:bg-top lg:bg-cover lg:bg-top '  style  ={{ backgroundImage: `url(${fifty})`  }}> 
+    <div className=' w-full  min-h-[200px] sm:min-h-[200px]  md:min-h-[200px] lg:min-h-[200px] bg-cover bg-top sm:bg-cover sm:bg-top md:bg-cover md:bg-top lg:bg-cover lg:bg-top '  style  ={{ backgroundImage: `url(${sa})`  }}> 
    
     <Header/> 
      <Main/>

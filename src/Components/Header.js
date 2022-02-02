@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Header() {
   return <div>
-<div className=' flex justify-between px-3 sm:px-3 md:px-8 lg:px-16 items-center   bg-opacity-10   ' >
+<div className=' flex justify-between pl-5 px-5 sm:px-5 md:px-8 lg:px-20 items-center   bg-opacity-10   ' >
  <ul className=' lg:flex  lg:justify-center  lg:items-center   space-x-7 text-white  text-sm font-semibold '  > 
      <a href="https://www.netflix.com/in/">
   <img className=" w-20 sm:w-36 md:w-28 lg:w-28 brightness-100  cursor-pointer  '  "src="./images/netflix.png" alt=""/>

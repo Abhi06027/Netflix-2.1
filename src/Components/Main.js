@@ -5,17 +5,17 @@ export default function Main() {
 
 <main className=' '  >
 <div>
-        <img className="  lg:mt-32  ml-5 sm:ml-5 md:ml-8  lg:ml-16 w-[100px] sm:w-[200px] md:w-[300px] lg:w-[700px]    " src="./images/ffty.png" alt="" />
+        <img className="  lg:mt-32   w-[200px] sm:w-[200px] md:w-[300px] lg:w-[700px] py-2 sm:py-2 md:py-3  lg:py-5   " src="./images/ameri.png" alt="" />
         </div>
             {/* <div className=' flex  items-center text-center  ' > 
 <img className="  w-20 pl-12   " src="./images/top10.png" alt="" />
 <p className='  text-white  pl-4 text-3xl font-bold  ' > #1 in India Today </p> 
 </div> */}
  <div> 
-      <p className=' cursor-pointer text-white pl-5 px-5 sm:px-5 md:px-8 lg:px-16 text-xs sm:text-xs md:text-sm lg:text-2xl font-medium max-w-xs sm:max-w-xs md:max-w-sm lg:max-w-2xl ' > A wealthy, older man and a naïve college student engage in an intense relationship marked by the exploration of erotic extremes.
+      <p className=' cursor-pointer text-white pl-5 px-5 sm:px-5 md:px-8 lg:px-20 text-xs sm:text-xs md:text-sm lg:text-2xl font-medium max-w-xs sm:max-w-xs md:max-w-sm lg:max-w-2xl ' > Erik, the prude virgin cousin of Matt and Steve Stifler, comes out of his shell when he and his friends participate in a naked run on campus.
  </p> 
       </div>
-      <div className=' px-5 sm:px-5 md:px-8 lg:px-16  mt-2 lg:mt-7 flex space-x-3 ' > 
+      <div className=' px-5 sm:px-5 md:px-8 lg:px-20  mt-2 lg:mt-7 flex space-x-3 ' > 
         
         <button className='  flex justify-center space-x-2 items-center  bg-white hover:bg-opacity-50 h-7 w-20  rounded-md  lg:h-14 text-sm lg:w-36 lg:text-xl text-black font-bold  ' > 
          <img className="  w-5 lg:w-9    " src="./images/playbutton.png" alt="" /> <span>   Play   </span>
